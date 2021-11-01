@@ -1,0 +1,7 @@
+F:\Year 1 CS\Programming\Assessment 2\AlexMar_Ass2\AlexMar_Ass2\bin\Debug\AlexMar_Ass2.exe.config
+F:\Year 1 CS\Programming\Assessment 2\AlexMar_Ass2\AlexMar_Ass2\bin\Debug\AlexMar_Ass2.exe
+F:\Year 1 CS\Programming\Assessment 2\AlexMar_Ass2\AlexMar_Ass2\bin\Debug\AlexMar_Ass2.pdb
+F:\Year 1 CS\Programming\Assessment 2\AlexMar_Ass2\AlexMar_Ass2\obj\Debug\AlexMar_Ass2.csproj.CoreCompileInputs.cache
+F:\Year 1 CS\Programming\Assessment 2\AlexMar_Ass2\AlexMar_Ass2\obj\Debug\AlexMar_Ass2.exe
+F:\Year 1 CS\Programming\Assessment 2\AlexMar_Ass2\AlexMar_Ass2\obj\Debug\AlexMar_Ass2.pdb
+F:\Year 1 CS\Programming\Assessment 2\AlexMar_Ass2\AlexMar_Ass2\obj\Debug\AlexMar_Ass2.csprojAssemblyReference.cache
